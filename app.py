@@ -315,7 +315,19 @@ def load_sample():
 
 def get_client():
     key = os.getenv("GEMINI_API_KEY", "").strip()
+
     if not key:
+        try:
+            key = st.secrets["GEMINI_API_KEY"].strip()
+        except Exception:
+            key = ""
+
+    if not key:
+        return None
+
+    try:
+        return genai.Client(api_key=key)
+    except Exception:
         return None
     try:
         return genai.Client(api_key=key)
