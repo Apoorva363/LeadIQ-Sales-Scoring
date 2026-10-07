@@ -313,7 +313,7 @@ def load_sample():
     return prepare_data(df)
 
 
-ddef get_client():
+def get_client():
     key = os.getenv("GEMINI_API_KEY", "").strip()
 
     if not key:
