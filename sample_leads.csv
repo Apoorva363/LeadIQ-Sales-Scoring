@@ -1,0 +1,7 @@
+lead_id,name,industry,budget_crore,website_visits,brochure_download,site_visit,email_opens,purchase_timeline,days_since_interaction
+L001,Rahul Sharma,Real Estate,2.8,7,Yes,Yes,6,Within 3 months,2
+L002,Neha Kapoor,IT Services,1.2,3,Yes,No,3,Within 6 months,5
+L003,Arjun Mehta,Manufacturing,0.8,1,No,No,1,Within 12 months,18
+L004,Priya Nair,Retail,3.2,6,Yes,Yes,5,Within 1 month,1
+L005,Vikram Singh,Consulting,1.7,4,No,Yes,2,Within 6 months,8
+L006,Ayesha Khan,Education,0.6,2,No,No,0,Unknown,25
