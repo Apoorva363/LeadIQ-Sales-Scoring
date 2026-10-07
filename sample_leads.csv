@@ -1,0 +1,13 @@
+name,industry,budget,website_visits,brochure_download,site_visit,email_opens,purchase_timeline,days_since_last_interaction
+Neha Kapoor,IT Services,₹1.5 Cr,18,Yes,Yes,9,Immediate,1
+Rahul Sharma,Real Estate,₹1.2 Cr,14,Yes,Yes,7,Within 1 month,2
+Priya Nair,Retail,₹75 Lakh,8,Yes,Yes,5,Within 3 months,5
+Karan Malhotra,Healthcare,₹90 Lakh,11,Yes,No,6,Within 3 months,4
+Riya Mehta,Technology,₹65 Lakh,9,Yes,No,7,Within 1 month,3
+Vikram Singh,Consulting,₹55 Lakh,6,Yes,Yes,3,Within 6 months,7
+Ananya Rao,Education,₹30 Lakh,10,Yes,No,5,Within 3 months,6
+Arjun Mehta,Manufacturing,₹35 Lakh,3,No,No,2,Within 6 months,12
+Sneha Iyer,FMCG,₹22 Lakh,5,Yes,No,2,Within 6 months,14
+Ayesha Khan,Hospitality,₹18 Lakh,2,No,No,1,Within 12 months,21
+Rohan Gupta,Logistics,₹80 Lakh,12,Yes,No,4,Within 3 months,10
+Simran Joshi,Banking,₹110 Lakh,7,No,Yes,5,Within 1 month,2
